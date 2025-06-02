@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m RAHUL 
 
 Aspiring Data Engineer | Python, Spark & SQL Learner | Always Exploring
 
@@ -6,7 +6,7 @@ Aspiring Data Engineer | Python, Spark & SQL Learner | Always Exploring
 
 ## 🌱 About Me  
 - Currently diving deep into data processing with Python, Spark, SQL, Pandas, and NumPy.  
-- Learning Java basics and getting comfortable with writing clean, efficient code.  
+- Currently learning Cloud service like data Factory , data bricks and data warehouse like snowflakes.  
 - Passionate about building strong foundations in data engineering and cloud technologies.  
 - Always curious, always improving.
 
