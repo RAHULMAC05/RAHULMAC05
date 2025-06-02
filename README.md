@@ -28,7 +28,7 @@ Aspiring Data Engineer | Python, Spark & Big Data Learner | Always Exploring
 ---
 
 
-## 🧩 Coding Profiles
+## 🧩 LEETCODE
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_mac?theme=dark&font=Baloo%20Chettan)](https://leetcode.com/Rahul_mac)
 
