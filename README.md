@@ -12,7 +12,7 @@ Aspiring Data Engineer | Python, Spark & Big Data Learner | Always Exploring
 
 ---
 
-## 💻 Skills & Tools
+## 💻 TECH STACK
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -35,9 +35,10 @@ Aspiring Data Engineer | Python, Spark & Big Data Learner | Always Exploring
 
 ## 📊 GitHub Stats
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHULMAC05&show_icons=true&count_private=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULMAC05&layout=compact&theme=radical)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAHULMAC05&show_icons=true&count_private=true&theme=radical" alt="Rahul's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULMAC05&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
