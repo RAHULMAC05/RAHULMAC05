@@ -35,9 +35,9 @@ Aspiring Data Engineer | Python, Spark & Big Data Learner | Always Exploring
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHULMAC05&show_icons=true&count_private=true&theme=radical)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHULMAC05&show_icons=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULMAC05&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULMAC05&layout=compact&theme=radical)
 
 ---
 
