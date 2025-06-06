@@ -27,10 +27,17 @@ Aspiring Data Engineer | Python, Spark & Big Data Learner | Always Exploring
 
 ---
 
-
 ## 🧩 LEETCODE
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_mac?theme=dark&font=Baloo%20Chettan)](https://leetcode.com/Rahul_mac)
+
+---
+
+## 📊 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHULMAC05&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULMAC05&layout=compact&theme=radical)
 
 ---
 
