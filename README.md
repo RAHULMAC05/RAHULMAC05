@@ -40,9 +40,10 @@ Aspiring Data Engineer | Python, Spark & Big Data Learner | Always Exploring
 ## 📊 GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULMAC05&show_icons=true&count_private=true&theme=radical" alt="Rahul's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULMAC05&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAHULMAC05&show_icons=true&count_private=true&theme=radical&cache_seconds=0" alt="Rahul's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULMAC05&layout=compact&theme=radical&cache_seconds=0" alt="Top Languages" width="48%" />
 </p>
+
 
 ---
 
